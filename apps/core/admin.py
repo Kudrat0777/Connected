@@ -1,6 +1,6 @@
 from django.contrib import admin
 # from unfold.admin import ModelAdmin
-from .models import Employee, About, Contact
+# from .models import Employee, About, Contact
 
 # Register your models here.
 
